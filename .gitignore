@@ -3,6 +3,7 @@ tmp/
 *_backup
 Site for import/Thumbs.db
 .DS_Store
+Thumbs.db
 
 
 
